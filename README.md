@@ -33,7 +33,7 @@ The Frontend of this app has been built using streamlit and python. Please take 
 
 
 <b>Sources:</b>
-[IMDB-5000-Movies-Dataset](https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset)
-[TMDB-API-Guide](https://www.themoviedb.org/documentation/api)
+- [IMDB-5000-Movies-Dataset](https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset)
+- [TMDB-API-Guide](https://www.themoviedb.org/documentation/api)
 
 

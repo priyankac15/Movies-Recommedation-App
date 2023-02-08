@@ -1,7 +1,7 @@
 # Movie-Recommedation-App
 A movie recommendation system attempts to anticipate preferences based on the user's selections. The Web-App created for this project using Python suggests movies based on the user's liked movies.
 
-Please find the app built using streamlit here:
+<b>Please find the app built using streamlit here:</b>
 [MoviesRecommendation_app](http://localhost:8502/)
 
 <h1>OVERVIEW</h1>
